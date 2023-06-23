@@ -1,4 +1,4 @@
-![Screenshot 2023-06-23 214200](https://github.com/Saptarshi2120/Medic_Website/assets/98098917/580e21b8-8a59-4319-96bc-7f35918c9e0e)PROBLEM STATEMENT of the website : RECOMMENDING MEDICAL PROFESSIONALS THROUGH ONLINE PORTAL
+PROBLEM STATEMENT of the website : RECOMMENDING MEDICAL PROFESSIONALS THROUGH ONLINE PORTAL
 
 It is the era of smartphones and internet. But there is a scarcity of doctors in rural or backward areas. . If we
 can connect doctors with patients through online application where patients will input their symptoms
@@ -19,6 +19,9 @@ intervention is necessary.
 ![Screenshot 2023-06-23 214027](https://github.com/Saptarshi2120/Medic_Website/assets/98098917/0c2b889a-cd7c-44a5-a2b9-863033f63c74)
 
 ![Screenshot 2023-06-23 214118](https://github.com/Saptarshi2120/Medic_Website/assets/98098917/58bbcc05-7c8a-4788-8867-8f7962d5010e)
+
+![Screenshot 2023-06-23 214200](https://github.com/Saptarshi2120/Medic_Website/assets/98098917/112c0614-3a32-4404-a903-14438b793361)
+
 
 ![Screenshot 2023-06-23 214200](https://github.com/Saptarshi2120/Medic_Website/assets/98098917/27bae335-8df4-4263-84be-bd889bb6ed90)
 
