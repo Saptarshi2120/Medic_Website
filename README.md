@@ -15,6 +15,9 @@ be delivered to the patient's doorstep. This can be especially useful for patien
 a pharmacy or have difficulty traveling to one. Furthermore, we will have a 24/7 emergency corridor for
 patients with severe symptoms. This can help save lives in critical situations where timely medical
 intervention is necessary.
+
+[Medic_website_presentation.pdf](https://github.com/Saptarshi2120/Medic_Website/files/11850274/Medic_website_presentation.pdf)
+
 ![Screenshot 2023-06-23 213952](https://github.com/Saptarshi2120/Medic_Website/assets/98098917/e64307ab-676d-4921-bd79-108b7a018126)
 
 ![Screenshot 2023-06-23 214027](https://github.com/Saptarshi2120/Medic_Website/assets/98098917/0c2b889a-cd7c-44a5-a2b9-863033f63c74)
