@@ -18,7 +18,6 @@ intervention is necessary.
 ![Screenshot 2023-06-23 213952](https://github.com/Saptarshi2120/Medic_Website/assets/98098917/e64307ab-676d-4921-bd79-108b7a018126)
 ![Screenshot 2023-06-23 214027](https://github.com/Saptarshi2120/Medic_Website/assets/98098917/0c2b889a-cd7c-44a5-a2b9-863033f63c74)
 
-![Screenshot 2023-06-23 214200]
-(https://github.com/Saptarshi2120/Medic_Website/assets/98098917/8ecba4ba-3fa3-4f3a-9513-25fa8d4577df)
+![Screenshot 2023-06-23 214118](https://github.com/Saptarshi2120/Medic_Website/assets/98098917/58bbcc05-7c8a-4788-8867-8f7962d5010e)
 
 ![Screenshot 2023-06-23 214239](https://github.com/Saptarshi2120/Medic_Website/assets/98098917/3598b001-930e-49ab-8b18-43f7c6e20ee6)
