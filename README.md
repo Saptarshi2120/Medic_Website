@@ -14,4 +14,4 @@ Apart from recommending doctors, we will be providing general medicines for regu
 be delivered to the patient's doorstep. This can be especially useful for patients who may not have access to
 a pharmacy or have difficulty traveling to one. Furthermore, we will have a 24/7 emergency corridor for
 patients with severe symptoms. This can help save lives in critical situations where timely medical
-intervention is necessary. Also, by providing medicines in required times, we ca
+intervention is necessary.
